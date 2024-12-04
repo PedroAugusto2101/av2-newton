@@ -15,6 +15,7 @@ Aplicação web RESTful desenvolvida com *Spring Boot* e *MySQL* para gerenciame
 - *Gerenciamento de Tarefas:* Operações CRUD (Criar, Ler, Atualizar, Deletar) para tarefas.
 - *Autenticação JWT:* Sistema seguro de login e controle de acesso.
 - *Documentação Interativa:* Explore as rotas da API através do Swagger.
+    - http://localhost:8080/swagger-ui/index.html
 - *Testes Unitários:* Garantem a confiabilidade das funcionalidades.
   
 ## Tecnologias Utilizadas:
