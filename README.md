@@ -5,6 +5,11 @@ Aplicação web RESTful desenvolvida com *Spring Boot* e *MySQL* para gerenciame
 
 ## Integrantes:
 - Pedro Augusto Andrade Silva (12118331)
+- Guilherme Vianini Pereira (12117275)
+- Rafaela Junqueira Lavorato Pimenta (12121158)
+- Michael de Lacerda Melo (12105392)
+- Gabriel Henrique Eliziário Gonçalves (12113941)
+- Flávio Augusto Carvalho de Oliveira Gomes de Abreu (12119104)
 
 ## Funcionalidades:
 - *Gerenciamento de Tarefas:* Operações CRUD (Criar, Ler, Atualizar, Deletar) para tarefas.
