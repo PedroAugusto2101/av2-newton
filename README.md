@@ -1,13 +1,4 @@
 ---
-
-# Integrantes do Grupo
-- Pedro Augusto Andrade Silva (12118331)
-- Guilherme Vianini Pereira (12117275)
-- Rafaela Junqueira Lavorato Pimenta (12121158)
-- Michael de Lacerda Melo (12105392)
-- Gabriel Henrique Eliziário Gonçalves (12113941)
-- Flávio Augusto Carvalho de Oliveira Gomes de Abreu (12119104)
-
 # Tarefa
 
 Aplicação web RESTful desenvolvida com *Spring Boot* e *MySQL* para gerenciamento de tarefas, com autenticação segura via JWT, documentação interativa com Swagger e deploy via Docker.
