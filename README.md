@@ -18,20 +18,22 @@ Aplicação web RESTful desenvolvida com *Spring Boot* e *MySQL* para gerenciame
 - *Deploy:* Docker e Docker Compose
 
 ## Rotas da API:
-- *GET /tarefas*: Retorna todas as tarefas.
-- *POST /tarefas*: Cria uma nova tarefa.
-- *PUT /tarefas/{id}*: Atualiza uma tarefa específica.
-- *DELETE /tarefas/{id}*: Deleta uma tarefa.
+- *GET /feed*: Retorna todas as tarefas.
+- *POST /tasks*: Cria uma nova tarefa.
+- *PUT /tasks/{id}*: Atualiza uma tarefa específica.
+- *DELETE /tasks/{id}*: Deleta uma tarefa.
 
 Documentação completa disponível no Swagger em http://localhost:8080/swagger-ui/.
 
 ## Estrutura do Banco de Dados:
 - *Tabela tarefas:*
-  - id (Primary Key)
-  - titulo (String)
-  - descricao (String)
-  - status (Enum: Pendente, Concluída)
-  - data_criacao (Timestamp)
+  - task_id (bigint)
+  - creation_timestamp (Timestamp)
+  - descricao (varchar-255)
+  - user_id (binary-16)
+  - content (varchar-255)
+  
+  
 
 ## Como Executar o Projeto:
 1. Clone o repositório:
