@@ -3,6 +3,9 @@
 
 Aplicação web RESTful desenvolvida com *Spring Boot* e *MySQL* para gerenciamento de tarefas, com autenticação segura via JWT, documentação interativa com Swagger e deploy via Docker.
 
+## Integrantes:
+- Pedro Augusto Andrade Silva (12118331)
+
 ## Funcionalidades:
 - *Gerenciamento de Tarefas:* Operações CRUD (Criar, Ler, Atualizar, Deletar) para tarefas.
 - *Autenticação JWT:* Sistema seguro de login e controle de acesso.
