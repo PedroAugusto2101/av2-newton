@@ -1,0 +1,15 @@
+{
+    "properties": [
+      {
+        "name": "jwt.private.key",
+        "type": "java.security.interfaces.RSAPrivateKey",
+        "description": "The private key for JWT signing"
+      },
+      {
+        "name": "jwt.public.key",
+        "type": "java.security.interfaces.RSAPublicKey",
+        "description": "The public key for JWT verification"
+      }
+    ]
+  }
+  
