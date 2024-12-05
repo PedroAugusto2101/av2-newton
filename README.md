@@ -24,6 +24,7 @@ Aplicação web RESTful desenvolvida com *Spring Boot* e *MySQL* para gerenciame
 - *Segurança:* JWT (JSON Web Tokens)
 - *Documentação:* Swagger
 - *Deploy:* Render
+    - https://av2-newton.onrender.com
 
 ## Rotas da API:
 - *GET /feed*: Retorna todas as tarefas.
