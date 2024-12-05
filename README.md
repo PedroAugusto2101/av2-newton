@@ -23,7 +23,7 @@ Aplicação web RESTful desenvolvida com *Spring Boot* e *MySQL* para gerenciame
 - *Banco de Dados:* MySQL
 - *Segurança:* JWT (JSON Web Tokens)
 - *Documentação:* Swagger
-- *Deploy:* Docker e Docker Compose
+- *Deploy:* Render
 
 ## Rotas da API:
 - *GET /feed*: Retorna todas as tarefas.
@@ -55,7 +55,7 @@ Documentação completa disponível no Swagger em http://localhost:8080/swagger-
    
 4. Acesse a documentação Swagger em:
    plaintext
-   http://localhost:8080/swagger-ui/
+   http://localhost:8080/swagger-ui/index.html
    
 
 ## Como Contribuir:
